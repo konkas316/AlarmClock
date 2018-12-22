@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.exe.config
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.exe
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.pdb
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.Form1.resources
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.exe
+C:\Users\Asus\Desktop\MiniTutorialProjects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.pdb
